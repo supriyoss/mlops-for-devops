@@ -79,9 +79,9 @@ No ML experience needed. That is what this repo teaches.
 
 | Step | Title | Guide |
 |------|-------|-------|
-| 1 | Project Dataset Pipeline | [Read the Guide](#) |
-| 2 | Data Preparation Stages | [Read the Guide](#) |
-| 3 | Training & Building the Prediction Model | [Read the Guide](#) |
+| 1 | Project Dataset Pipeline | [Read the Guide](https://newsletter.devopscube.com/p/building-a-dataset-pipeline) |
+| 2 | Data Preparation Stages | [Read the Guide](https://newsletter.devopscube.com/p/mlops-data-preparation) |
+| 3 | Training & Building the Prediction Model | [Read the Guide](https://newsletter.devopscube.com/p/mlops-training-the-model) |
 | 4 | From Model to Live API with KServe | 🔜 Coming this Saturday |
 
 Code: `phase-1-local-dev/`
