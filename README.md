@@ -62,7 +62,7 @@ No ML experience needed. That is what this repo teaches.
 |-------|-------|-------|--------|
 | 1 | 🤖 Traditional ML | [Local Dev & Pipelines](#phase-1-local-development--data-pipelines) | ✅ Done |
 | 1 | 🤖 Traditional ML | K8s Deploy & Model Serving | ✅ Done |
-| 3 | 🤖 Traditional ML | Enterprise Orchestration | 🔜 Planned |
+| 3 | 🤖 Traditional ML | Enterprise Orchestration | 🔄 In Progress |
 | 4 | 🤖 Traditional ML | Monitor & Observe | 🔜 Planned |
 | 5 | 🧠 Foundational Models | Foundational Models | 🔜 Planned |
 | 6 | 🧠 Foundational Models | LLM Serving & Scaling | 🔜 Planned |
@@ -88,7 +88,14 @@ Code: `phase-1-local-dev/`
 
 ## Phase 2: Enterprise Orchestration for ML
 
-**Goal:** Build the full ML pipeline using CNCF ML tooling
+**Goal:** Replace local, manual ML workflows with production-grade orchestration. Versioned data, automated pipelines, experiment tracking, and scalable training.
+
+|Step | | Title | What it Covers | Guide |
+|1|------|-------|-------|
+|2| ML Versioning Fundamentals | Understanding Data Drift, Model Decay, and Dataset Versioning  | [Read the Guide](https://newsletter.devopscube.com/p/mlops-data-drift-model-decay-and-dataset-versioning) |
+|3| Hands-On DVC with Airflow & S3 | DVC pipelines, pushing/pulling datasets from S3, connecting to Phase 1 attrition data | 🔜 Coming this Saturday |
+
+
 
 🔜 Coming this Saturday
 
