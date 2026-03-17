@@ -122,6 +122,7 @@ Code: `phase-1-local-dev/`
 ## Tools
 
 - [Ray](https://github.com/ray-project/ray): Open-source distributed computing framework For Python & AI Workloads
+- [rtk](https://github.com/rtk-ai/rtk): High-performance CLI proxy that reduces LLM token consumption.
 
 ## License
 
