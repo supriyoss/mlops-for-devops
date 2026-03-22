@@ -94,7 +94,8 @@ Code: `phase-1-local-dev/`
 | Step | Title | What it Covers | Guide |
 |------|-------|----------------|-------|
 | 1 | Data Versioning Fundamentals | Understanding Data Drift, Model Decay, and Dataset Versioning | [Read the Guide](https://newsletter.devopscube.com/p/mlops-data-drift-model-decay-and-dataset-versioning) |
-| 2 | Hands-On DVC with Airflow & S3 | DVC pipelines, pushing/pulling datasets from S3, connecting to Phase 1 attrition data | 🔜 Coming Soon |
+| 2 | Hands-On Data Version Control with AWS S3 | Working with DVC and AWS s3 to Version the Dataset required for ML | [Read the Guide](https://newsletter.devopscube.com/p/mlops-versioning-data-with-dvc)|
+| 3 | Data Versioning using Airflow on Kubernetes.  | ETL pipeline that produces fresh employee_attrition.csv dataset and versions in on s3 using DVC| 🔜 Coming This Saturday|
 
 ---
 
