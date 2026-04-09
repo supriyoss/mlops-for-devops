@@ -79,7 +79,7 @@ Code: `phase-1-local-dev/`
 | Step | Title | Guide |
 |------|-------|-------|
 | 1 | Data Versioning Fundamentals  | [Read the Guide](https://newsletter.devopscube.com/p/mlops-data-drift-model-decay-and-dataset-versioning) |
-| 2 | Hands-On Data Version Control with AWS S3 | [Read the Guide](https://newsletter.devopscube.com/p/mlops-versioning-data-with-dvc)|
+| 2 | Data Version Control (DVC) with AWS S3 | [Read the Guide](https://newsletter.devopscube.com/p/mlops-versioning-data-with-dvc)|
 | 3 | Data Versioning using Airflow on Kubernetes | [Read The Guide](https://newsletter.devopscube.com/p/mlops-airflow-dvc-pipeline)|
 | 4 | A Detailed Look in to Feature Store | 🔜 Coming Next |
 
@@ -109,7 +109,7 @@ Here is the tech stack you will be using in this setup.
 | Category | Tools |
 |----------|-------|
 | Data Pipeline | Python, Airflow |
-| Model Training | scikit-learn, XGBoost |
+| Model Training | scikit-learn |
 | API / Serving | FastAPI, Flask, Docker, KServe |
 | ML Orchestration | Kubeflow, MLflow Pipelines |
 | Monitoring | Prometheus, Grafana, Evidently AI |
